@@ -32,7 +32,7 @@ I'd be happy to connect and discuss potential collaborations in the exciting fie
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/kkashyap_17/">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram.png" alt="Instagram"/>
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
 </a>
 
 Thank you for visiting my GitHub page! ✨
