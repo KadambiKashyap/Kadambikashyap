@@ -1,5 +1,7 @@
 <div align="center">
+ 
 # Welcome to Kadambi Kashyap's GitHub Page! 👋
+
 </div>
 
  I'm a skilled data scientist who thrives on uncovering creative solutions to intricate data challenges. Dive into my projects, encompassing both academic explorations and practical data analysis applications.
