@@ -2,6 +2,8 @@
  
 # Welcome to Kadambi Kashyap's GitHub Page! 👋
 
+</div>
+
  I'm a skilled data scientist who thrives on uncovering creative solutions to intricate data challenges. Dive into my projects, encompassing both academic explorations and practical data analysis applications.
  
 I have experience in statistical modeling, data mining, and machine learning, as well as proficiency in Python programming language. I also have experience working with various development and database tools, such as MySQL Workbench and MongoDB, and data analytical and visualization tools, including Tableau and Power BI.
@@ -22,4 +24,4 @@ I'd be happy to connect and discuss potential collaborations in the exciting fie
 
 Thank you for visiting my GitHub page! ✨
 
-</div>
+
