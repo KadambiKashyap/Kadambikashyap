@@ -1,3 +1,5 @@
+<div align="center">
+ 
 # Welcome to Kadambi Kashyap's GitHub Page! 👋
 
  I'm a skilled data scientist who thrives on uncovering creative solutions to intricate data challenges. Dive into my projects, encompassing both academic explorations and practical data analysis applications.
@@ -26,22 +28,5 @@ Check out my portfolio at: [kadambikashyap.netlify.app/](https://kadambikashyap.
 
 I'd be happy to connect and discuss potential collaborations in the exciting field of data science.
 
----
-
 Thank you for visiting my GitHub page! ✨
-
-
-<!--
-**KadambiKashyap/Kadambikashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
