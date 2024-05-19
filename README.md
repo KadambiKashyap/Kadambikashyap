@@ -20,7 +20,20 @@ Dive into my repositories! Feel free to fork them, tinker around, and even contr
 
 Check out my portfolio at: [kadambikashyap.netlify.app/](https://kadambikashyap.netlify.app/)
 
+📫 How to reach me: [kadambikashyap@gmail.com](mailto:kadambikashyap@gmail.com)
+
+📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1XBhbs-LuQFkmADTM1xiChXXovJSu-82Z/view?usp=sharing)
+
 I'd be happy to connect and discuss potential collaborations in the exciting field of data science.
+
+## Connect with me:
+
+<a href="https://www.linkedin.com/in/kadambikashyap/">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/kkashyap_17/">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram.png" alt="Instagram"/>
+</a>
 
 Thank you for visiting my GitHub page! ✨
 
