@@ -22,7 +22,7 @@ Check out my portfolio at: [kadambikashyap.netlify.app/](https://kadambikashyap.
 
 📫 How to reach me: [kadambikashyap@gmail.com](mailto:kadambikashyap@gmail.com)
 
-📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1XBhbs-LuQFkmADTM1xiChXXovJSu-82Z/view?usp=sharing)
+📄 Know about my experiences: [View My Resume]([https://drive.google.com/file/d/1XBhbs-LuQFkmADTM1xiChXXovJSu-82Z/view?usp=sharing](https://drive.google.com/file/d/1BGJk1ntEO4xlNqB1QOt3HpVe8LNtuuO8/view))
 
 I'd be happy to connect and discuss potential collaborations in the exciting field of data science.
 
